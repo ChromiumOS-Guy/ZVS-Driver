@@ -412,7 +412,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 4.0,
+        "clearance": 1.5,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -441,6 +441,14 @@
       {
         "netclass": "Default",
         "pattern": "GND"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/MOSFET LEFT"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/MOSFET RIGHT"
       }
     ]
   },
