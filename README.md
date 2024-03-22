@@ -6,6 +6,7 @@ PS: I kinda don't know the rotation of the connectors so for all I know they can
 
 # Part List:
 Part .No | Buy Link
+------------- | ------------- 
 691137710002 | https://www.digikey.co.il/en/products/detail/w%C3%BCrth-elektronik/691137710002/6644051
 B32654A6105K000 | https://www.digikey.co.il/en/products/detail/epcos-tdk-electronics/B32654A6105K000/2269405
 PR02000204700JR500 | https://www.digikey.co.il/en/products/detail/vishay-beyschlag-draloric-bc-components/PR02000204700JR500/596196
